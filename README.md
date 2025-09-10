@@ -50,39 +50,9 @@ This project is built on a modern, serverless architecture designed for scalabil
 
 ➡️ **[See the detailed Architecture and Tech Stack Documentation](./docs/architecture.md)**
 
-## 🚀 Quick Start Guide
+## 🔒 Source Code Availability
 
-Get the application running on your local machine in just a few steps.
-
-1.  **Clone the Repository**
-    ```bash
-    git clone https://github.com/your-username/careercraft-ai.git
-    cd careercraft-ai
-    ```
-
-2.  **Install Dependencies**
-    ```bash
-    npm install
-    ```
-
-3.  **Set Up Environment Variables**
-    -   Follow the detailed setup guide to get your Firebase and Google AI keys.
-    -   Copy the values into a new `.env` file at the root of the project.
-
-4.  **Run the Development Servers**
-    -   In one terminal, start the Next.js app:
-        ```bash
-        npm run dev
-        ```
-    -   In a second terminal, start the Genkit AI flows:
-        ```bash
-        npm run genkit:watch
-        ```
-
-5.  **Open the App**
-    -   Navigate to `http://localhost:3000` in your browser.
-
-➡️ **[View the Full Setup and Deployment Guide](./docs/setup.md)**
+The source code for CareerCraft AI is private. This README focuses on product overview and high-level documentation. Run and setup instructions are intentionally omitted.
 
 ## 📚 Full Documentation
 
@@ -118,7 +88,7 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ## 📬 Contact
 
--   **GitHub**: [@your-username](https://github.com/your-username)
--   **LinkedIn**: [Your Name](https://www.linkedin.com/in/your-profile/)
--   **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
--   **Email**: [your-email@example.com](mailto:your-email@example.com)
+-   **GitHub**: [@your-username](https://github.com/pmutua)
+-   **LinkedIn**: [Philip Mutua](https://www.linkedin.com/in/pmutua/)
+<!-- -   **Portfolio**: []() -->
+-   **Email**: [pmutua@live.com](mailto:pmutua@live.com)
