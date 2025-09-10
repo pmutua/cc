@@ -1,4 +1,4 @@
-t t # CareerCraft AI: Your AI-Powered Resume Assistant
+# CareerCraft AI: Your AI-Powered Resume Assistant
 
 <p align="center">
   <img src="https://firebasestorage.googleapis.com/v0/b/studiodev-33920.appspot.com/o/launch-assets%2Fbg_klw77o33.png?alt=media&token=c19c5c7d-8e42-4f33-b91c-b5f7b8813a1e" alt="CareerCraft AI Dashboard Preview" data-ai-hint="app dashboard resume" width="800"/>
