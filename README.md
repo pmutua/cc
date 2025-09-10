@@ -76,12 +76,6 @@ I've written a detailed, Medium-ready article that breaks down how I built this 
 
 ➡️ **[Read the full story: "How I Built an AI-Powered Resume Assistant with Firebase and Genkit"](./docs/blog-firebase-studio.md)**
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
-
-➡️ **[Read our Contribution Guidelines](./docs/contributing.md)**
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
