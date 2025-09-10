@@ -102,7 +102,7 @@ If you're looking to build your own AI-native application, I can't recommend thi
 
 ---
 
-### What's Next?
+### What's Next?  
 
 -   ➡️ **Check out the full source code on GitHub**: [github.com/your-username/careercraft-ai](https://github.com/your-username/careercraft-ai)
 -   👍 **Follow me on Medium** for more articles on building with modern web technologies.
