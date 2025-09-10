@@ -88,7 +88,7 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ## 📬 Contact
 
--   **GitHub**: [@your-username](https://github.com/pmutua)
+-   **GitHub**: [@pmutua](https://github.com/pmutua)
 -   **LinkedIn**: [Philip Mutua](https://www.linkedin.com/in/pmutua/)
 <!-- -   **Portfolio**: []() -->
 -   **Email**: [pmutua@live.com](mailto:pmutua@live.com)
