@@ -28,6 +28,14 @@
   <a href="https://www.youtube.com/watch?v=8Tioh6XuGEE" target="_blank">
     Visit this link to view Demo
   </a>
+  <br>
+  <b>OR</b>
+  <br>
+  <a href="https://studio--careercraft-ai-digjh.us-central1.hosted.app/" target="_blank">
+    Visit the live Demo
+  </a>
+
+  
 </p>
 
 
