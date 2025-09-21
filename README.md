@@ -1,17 +1,37 @@
 # CareerCraft AI: Your AI-Powered Resume Assistant
 
 <p align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/studiodev-33920.appspot.com/o/launch-assets%2Fbg_klw77o33.png?alt=media&token=c19c5c7d-8e42-4f33-b91c-b5f7b8813a1e" alt="CareerCraft AI Dashboard Preview" data-ai-hint="app dashboard resume" width="800"/>
-</p>
-
-<p align="center">
   <em>Craft the resume that lands the interview. CareerCraft AI is a full-stack SaaS application that leverages generative AI to provide a comprehensive suite of tools for resume analysis, enhancement, and optimization.</em>
 </p>
 
 <p align="center">
   <a href="./docs/progress-history.md"><img src="https://img.shields.io/badge/Project_Status-Actively_Developed-brightgreen" alt="Project Status"></a>
-  <a href="https://github.com/your-username/careercraft-ai/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"></a>
+  <!-- <a href="https://github.com/your-username/careercraft-ai/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"></a> -->
 </p>
+
+<p align="center">
+    <b>Home Page</b>
+</p>
+<p align="center">
+  <img src="./assets/landing-hero-page.PNG" alt="CareerCraft AI Dashboard Preview" data-ai-hint="app dashboard resume" width="800"/>
+</p>
+
+<p align="center">
+    <b>Dashboard</b>
+</p>
+
+  <p align="center">
+  <img src="./assets/dashboard-career-craft.PNG" alt="CareerCraft AI Dashboard Preview" data-ai-hint="app dashboard resume" width="800"/>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=8Tioh6XuGEE" target="_blank">
+    Visit this link to view Demo
+  </a>
+</p>
+
+
+<br>
 
 ---
 
@@ -21,13 +41,13 @@ The job application process can feel like a black hole. Talented candidates are 
 
 ## ✨ Key Features
 
--   **Multi-Format Resume Parsing**: Upload `.pdf`, `.docx`, or `.txt` files, or simply paste text. All parsing is done securely in the browser.
--   **Guided Resume Builder**: Don't have a resume? Create one from scratch with a step-by-step wizard and get AI-powered suggestions for every section.
--   **AI-Powered Comprehensive Review**: Get a holistic analysis of your resume, including an overall quality score, key recommendations, and content analysis for grammar, tone, and impact.
--   **Job-Specific Optimization**: Paste a job description URL to get a "Job Match Score," identify keyword gaps, and receive suggestions to tailor your resume for a specific role.
--   **ATS Readiness Optimization**: Understand how an Applicant Tracking System sees your resume and get an ATS compatibility score with actionable advice.
--   **AI Cover Letter Generation**: Generate a tailored cover letter draft in seconds based on your enhanced resume and the target job description.
--   **Professional Template Library & PDF Export**: Choose from a library of professionally designed, ATS-friendly templates and export your final resume as a polished PDF.
+- **Multi-Format Resume Parsing**: Upload `.pdf`, `.docx`, or `.txt` files, or simply paste text. All parsing is done securely in the browser.
+- **Guided Resume Builder**: Don't have a resume? Create one from scratch with a step-by-step wizard and get AI-powered suggestions for every section.
+- **AI-Powered Comprehensive Review**: Get a holistic analysis of your resume, including an overall quality score, key recommendations, and content analysis for grammar, tone, and impact.
+- **Job-Specific Optimization**: Paste a job description URL to get a "Job Match Score," identify keyword gaps, and receive suggestions to tailor your resume for a specific role.
+- **ATS Readiness Optimization**: Understand how an Applicant Tracking System sees your resume and get an ATS compatibility score with actionable advice.
+- **AI Cover Letter Generation**: Generate a tailored cover letter draft in seconds based on your enhanced resume and the target job description.
+- **Professional Template Library & PDF Export**: Choose from a library of professionally designed, ATS-friendly templates and export your final resume as a polished PDF.
 
 ## 🛠️ Tech Stack & Architecture
 
@@ -42,11 +62,11 @@ This project is built on a modern, serverless architecture designed for scalabil
   <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini">
 </p>
 
--   **Framework**: [Next.js](https://nextjs.org/) (with App Router)
--   **Language**: [TypeScript](https://www.typescriptlang.org/)
--   **Generative AI**: [Google Gemini](https://deepmind.google.com/technologies/gemini/) via [Genkit](https://firebase.google.com/docs/genkit)
--   **Backend & Hosting**: [Firebase](https://firebase.google.com/) (Authentication, Firestore, App Hosting)
--   **UI**: [React](https://react.dev/), [ShadCN UI](https://ui.shadcn.com/), [Tailwind CSS](https://tailwindcss.com/)
+- **Framework**: [Next.js](https://nextjs.org/) (with App Router)
+- **Language**: [TypeScript](https://www.typescriptlang.org/)
+- **Generative AI**: [Google Gemini](https://deepmind.google.com/technologies/gemini/) via [Genkit](https://firebase.google.com/docs/genkit)
+- **Backend & Hosting**: [Firebase](https://firebase.google.com/) (Authentication, Firestore, App Hosting)
+- **UI**: [React](https://react.dev/), [ShadCN UI](https://ui.shadcn.com/), [Tailwind CSS](https://tailwindcss.com/)
 
 ➡️ **[See the detailed Architecture and Tech Stack Documentation](./docs/architecture.md)**
 
@@ -56,19 +76,19 @@ The source code for CareerCraft AI is private. This README focuses on product ov
 
 ## 📚 Full Documentation
 
--   **[Architecture Overview](./docs/architecture.md)**
--   **[Tech Stack](./docs/stack.md)**
--   **[Features Guide](./docs/features.md)**
--   **[Setup & Deployment](./docs/setup.md)**
--   **[Future Roadmap](./docs/future-roadmap.md)**
--   **[FAQ & Troubleshooting](./docs/faq.md)**
+- **[Architecture Overview](./docs/architecture.md)**
+- **[Tech Stack](./docs/stack.md)**
+- **[Features Guide](./docs/features.md)**
+- **[Setup & Deployment](./docs/setup.md)**
+- **[Future Roadmap](./docs/future-roadmap.md)**
+- **[FAQ & Troubleshooting](./docs/faq.md)**
 
 ## 📈 Project Progress & History
 
 This project is actively developed. You can view a timeline of the work and key milestones, which serves as proof of my consistent contribution and the project's evolution.
 
--   **[Changelog](./docs/changelog.md)**: A versioned log of new features and fixes.
--   **[Progress History](./docs/progress-history.md)**: A human-readable development timeline.
+- **[Changelog](./docs/changelog.md)**: A versioned log of new features and fixes.
+- **[Progress History](./docs/progress-history.md)**: A human-readable development timeline.
 
 ## ✍️ Blog Post: How I Built This
 
@@ -76,13 +96,13 @@ I've written a detailed, Medium-ready article that breaks down how I built this 
 
 ➡️ **[Read the full story: "How I Built an AI-Powered Resume Assistant with Firebase and Genkit"](./docs/blog-firebase-studio.md)**
 
-## 📄 License
+<!-- TODO: LICENSE CHANGE ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details. -->
 
 ## 📬 Contact
 
--   **GitHub**: [@pmutua](https://github.com/pmutua)
--   **LinkedIn**: [Philip Mutua](https://www.linkedin.com/in/pmutua/)
+- **GitHub**: [@pmutua](https://github.com/pmutua)
+- **LinkedIn**: [Philip Mutua](https://www.linkedin.com/in/pmutua/)
 <!-- -   **Portfolio**: []() -->
--   **Email**: [pmutua@live.com](mailto:pmutua@live.com)
+- **Email**: [pmutua@live.com](mailto:pmutua@live.com)
