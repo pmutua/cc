@@ -111,6 +111,7 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 ## 📬 Contact
 
 - **GitHub**: [@pmutua](https://github.com/pmutua)
+- **Medium**: [@pmutua](https://medium.com/@philip.mutua)
 - **LinkedIn**: [Philip Mutua](https://www.linkedin.com/in/pmutua/)
 <!-- -   **Portfolio**: []() -->
 - **Email**: [pmutua@live.com](mailto:pmutua@live.com)
